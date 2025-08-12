@@ -1,0 +1,11 @@
+let num1=238;
+let num2=12;
+let name="Hadiza";
+let surname ="Garba";
+console.log(name);
+console.log(name + surname);
+console.log(num2*num1/num2);
+let currentyear=2025;
+let birthyear=2000;
+let age =currentyear-birthyear;
+console.log(age);
